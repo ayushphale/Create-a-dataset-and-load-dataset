@@ -1,8 +1,6 @@
 <h1 align="center"><b>Create and Load Dataset in Python 📊</b></h1>
 
-<p align="center">
-A beginner-friendly guide to understanding how datasets are created and loaded in Python.
-</p>
+
 
 ---
 
